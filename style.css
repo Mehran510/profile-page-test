@@ -1,0 +1,105 @@
+.container {
+        
+    width : 700px;
+    margin : 30px auto;
+    text-align: center;
+          }
+
+body {
+    background-color: rgb(255, 255, 255);
+font-size: 20px;
+color: rgb(2, 2, 94);
+font-family: Roboto;
+text-align: center;
+
+}
+
+h1, h2 {
+font-family: Roboto;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    }
+
+h2 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    
+    }
+
+a  {   
+    text-decoration: none;
+        }
+
+
+.card-white {
+        
+    background-color : rgb(255, 222, 185);
+    border-radius: 5px;
+    box-shadow: 0, 0, 10px, rgba(0, 0, 0, 0.4);
+    margin: 40px;
+    padding: 30px;
+    border: 1px solid orange;
+    
+        }
+
+.img-circle {
+        
+     width:130px;
+     height:130px;
+    border-radius: 50%;
+     background-color : white;
+     object-fit : color
+                }
+
+.btn-blue
+{     
+    color : white;
+    background-color : rgb(5, 0, 53);
+    border-radius : 10px;
+    padding: 15px 25px;
+    font-family: Roboto;
+    font-weight : 500;
+    margin:20px;
+    padding:10px
+
+     }
+
+ #introduction p {
+        
+    margin-bottom: 30px;
+          }  
+
+.list-inline {
+        
+        list-style : none;
+        padding-left: 0;
+        text-align: center;
+       
+                }
+
+.list-inline li i {
+
+    font-size: 40px;
+    color: rgb(4, 4, 71);
+    margin: 1px; 
+    padding: 10px;
+
+}
+
+.list-inline li {
+  display: inline;               
+             
+                    }                        
+.list-inline li i:hover {
+
+opacity: 0.7;
+                    }                  
+
+   
+       
+    
